@@ -1,6 +1,4 @@
-# Hi there, I'm Amirbek 👋  
-
-![Banner]([https://your-image-url.com](https://www.gettyimages.com/detail/news-photo/cristiano-ronaldo-of-portugal-celebrates-after-scoring-the-news-photo/1734016483?adppopup=true))  
+# Hi there, I'm Amirbek 👋    
 
 ## 🚀 About Me  
 - 🖥️ Learning **Python Backend Development**  
