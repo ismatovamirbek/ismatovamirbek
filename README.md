@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Amirbek 👋  
 
-<!--
-**ismatovamirbek/ismatovamirbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner]([https://your-image-url.com](https://www.gettyimages.com/detail/news-photo/cristiano-ronaldo-of-portugal-celebrates-after-scoring-the-news-photo/1734016483?adppopup=true))  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🖥️ Learning **Python Backend Development**  
+- 🤖 Building **Telegram bots with Aiogram**  
+- 🎯 Improving my **programming skills**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=flat-square)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ismatovamirbek/ismatovamirbek)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/amirbek_ismatov)  
+
